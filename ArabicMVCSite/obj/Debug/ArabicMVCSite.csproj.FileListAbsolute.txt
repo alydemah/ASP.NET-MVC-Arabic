@@ -1,0 +1,7 @@
+E:\My Projects\Projects\ArabicMVCSite\ArabicMVCSite\bin\ArabicMVCSite.dll
+E:\My Projects\Projects\ArabicMVCSite\ArabicMVCSite\bin\ArabicMVCSite.pdb
+E:\My Projects\Projects\ArabicMVCSite\ArabicMVCSite\bin\EntityFramework.dll
+E:\My Projects\Projects\ArabicMVCSite\ArabicMVCSite\bin\EntityFramework.xml
+E:\My Projects\Projects\ArabicMVCSite\ArabicMVCSite\obj\Debug\ResolveAssemblyReference.cache
+E:\My Projects\Projects\ArabicMVCSite\ArabicMVCSite\obj\Debug\ArabicMVCSite.dll
+E:\My Projects\Projects\ArabicMVCSite\ArabicMVCSite\obj\Debug\ArabicMVCSite.pdb
